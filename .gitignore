@@ -1,0 +1,17 @@
+node_modules/
+out/
+.DS_Store
+
+# per-video media (big, personal)
+input/*
+!input/.gitkeep
+work/*
+!work/.gitkeep
+public/shorts/*/*.mp4
+public/shorts/*/*.webm
+public/shorts/*/*.mp3
+
+# licensed / local-only audio — see scripts/setup_assets.py
+public/sfx/*
+!public/sfx/.gitkeep
+assets.config.json

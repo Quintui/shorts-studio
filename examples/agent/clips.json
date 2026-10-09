@@ -1,0 +1,12 @@
+{
+  "clips": [
+    [599.72, 602.34, "cold open: In most of the cases, you actually don't need an agent."],
+    [292.10, 292.54, "The first (drops: like, instant)"],
+    [293.20, 309.08, "instinct … small things like that."],
+    [312.98, 316.82, "So that's why it's a workflow and not just one big agent."],
+    [602.40, 605.26, "You just need a workflow because you have predefined steps"],
+    [605.68, 610.26, "in what you're trying to build … a voice generator,"],
+    [611.18, 615.26, "animator, narrator … you just need a workflow. (drops anima- false start)"]
+  ],
+  "music": {"offset": 3600}
+}

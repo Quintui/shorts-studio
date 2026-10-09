@@ -1,0 +1,17 @@
+{
+  "sfx": {
+    "whoosh.mp3": "~/Desktop/main-transition-sounds/dragon-studio-simple-whoosh-382724 (1).mp3",
+    "pop.mp3": "~/Desktop/main-transition-sounds/dragon-studio-pop-402324.mp3",
+    "click.mp3": "~/Desktop/main-transition-sounds/matthewvakaliuk73627-mouse-click-290204.mp3",
+    "typing.mp3": "~/Desktop/main-transition-sounds/dragon-studio-keyboard-typing-sound-effect-335503 (1).mp3",
+    "whoosh-fast.mp3": "~/Desktop/transition-sounds/mp3/whoosh-fast.mp3",
+    "whoosh-air.mp3": "~/Desktop/transition-sounds/mp3/whoosh-air.mp3",
+    "whoosh-cinematic.mp3": "~/Desktop/transition-sounds/mp3/whoosh-cinematic.mp3",
+    "pop-light.mp3": "~/Desktop/transition-sounds/mp3/pop-light.mp3",
+    "impact-cinematic.mp3": "~/Desktop/transition-sounds/mp3/impact-cinematic.mp3",
+    "laser-swoosh.mp3": "~/Desktop/transition-sounds/mp3/laser-swoosh.mp3",
+    "riser-short.mp3": "~/Desktop/transition-sounds/mp3/riser-short.mp3",
+    "sparkle-whoosh.mp3": "~/Desktop/transition-sounds/mp3/sparkle-whoosh.mp3"
+  },
+  "music": "~/Desktop/main-audio-background.mp3"
+}

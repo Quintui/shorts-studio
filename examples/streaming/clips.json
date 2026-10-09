@@ -1,0 +1,8 @@
+{
+  "clips": [
+    [617.94, 626.10, "With AI, most of the results take a while … spinning wheel or something."],
+    [406.85, 423.32, "The part that makes this whole app feel so fast is actually streaming … renders them."],
+    [627.28, 633.45, "By implementing streaming, waiting actually feels different … you see the progress."]
+  ],
+  "music": {"offset": 1800}
+}
